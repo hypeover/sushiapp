@@ -5,7 +5,7 @@ Only for desktop resolutions
 Installed Libs:
 
 - [Styled-Components](https://styled-components.com/)
-- [Swiper](https://swiperjs.com/))
+- [Swiper](https://swiperjs.com/)
 
 
 
