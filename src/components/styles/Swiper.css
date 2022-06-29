@@ -1,0 +1,12 @@
+
+
+.Slide {
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    border-radius: 34px;
+    background-position: center center;
+    background-size: 445px 300px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
